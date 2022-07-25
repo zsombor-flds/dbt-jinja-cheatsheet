@@ -1,2 +1,2 @@
-# dbt + Jinja cheatsheet
-![Cheatsheet](./export/Jinja_Cheatsheet.svg)
+# dbt + Jinja Cheatsheet
+![Cheatsheet](./export/Jinja_Cheatsheet.png)
